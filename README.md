@@ -1,4 +1,4 @@
-# Projet_Python_Jeux_Pendu
+# Projet_Python_Jeux_Quiz
  ## Présentation rapide
   Ce projet est un **quiz de culture générale**. Dès que l'utilisateur commence, il doit **absolument lire les règles du jeu** qui lui explique le fonctionnement du quiz. Ensuite, il peut choisir de retourner au menu principal ou de partir. 
   S'il choisit de jouer, il a le choix entre choisir un quiz de thème spécifique(littérature, Economie politique, Calcul) ou le quiz multithème. 
